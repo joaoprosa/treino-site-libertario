@@ -133,7 +133,7 @@ main{
     position: absolute;
     display: flex;
     justify-content: center;
-    color: green;
+    color: yellow;
 }
 .block__ancapbandeira, .block__video, .block__escritores{
     width: 47vw;
