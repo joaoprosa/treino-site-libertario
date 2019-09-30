@@ -83,12 +83,10 @@ main{
 }
 .block__historiaImagem{
     width: 250px;
-    height: 250px;
 }
 @media(max-width:768px){
     .block__historiaImagem{
         width: 100%;
-        height: 200px;
     }
 }
 .block__historiatext{
@@ -106,19 +104,17 @@ main{
     }
 }
 .block__historiaParagrafo{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     margin-top: 20px;
     margin-left: 20px;
     font-size: 29px;
 }
 .block__bandeira{
     width: 300px;
-    height: 240px;
 }
 @media(max-width:768px){
     .block__bandeira{
         width: 100%;
-        height: 260px;
     }
 }
 .block__ancap{
@@ -169,7 +165,6 @@ main{
 }
 .block__ancapimage{
     width: 250px;
-    height: 200px;
 }
 @media(max-width:950px){
     .block__ancapimage{
@@ -188,7 +183,7 @@ main{
     flex-wrap: wrap;
 }
 .text__escritores{
-    color: rgb(0, 0, 0); 
+    color: rgb(255, 255, 255); 
     margin-top: 50px;  
     margin-left: 10px;
     margin-bottom: 20px;
@@ -196,13 +191,11 @@ main{
 }
 .block__escritoresimagem{
     width: 250px;
-    height: 200px;
     margin-bottom: 30px;
 }
 @media(max-width:950px){
     .block__escritoresimagem{
         width: 100%;
-        height: 300px;
     }
 }
 .block__livros{
